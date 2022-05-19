@@ -63,7 +63,6 @@ body {
     width: 100%;
 }
 
- 
 /* The success and error borders. Not gonna lie, this selectors confused me a little,
  but I understand that I'm selecting the child input of the parent that has the two classes */
 .input-control.success input {
@@ -80,3 +79,8 @@ body {
     font-size: 0.7rem;
     height: 0.9rem;
 } 
+
+.thank-you {
+    font-size: 2rem;
+    font-family: inherit;
+}
